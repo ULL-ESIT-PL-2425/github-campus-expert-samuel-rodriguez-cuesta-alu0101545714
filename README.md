@@ -2,7 +2,7 @@
 # Github Campus Expert 
 
 - Samuel
-- Rodríguez Cuest 
+- Rodríguez Cuesta 
 - alu0101545714
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
